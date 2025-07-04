@@ -2,5 +2,3 @@ pymavlink
 streamlit
 streamlit_folium
 folium
-time
-os
