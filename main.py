@@ -1,5 +1,7 @@
 import streamlit as st
 from pymavlink import mavutil
+import folium
+from streamlit_folium import st_folium
 import time
 import os
 
@@ -74,7 +76,11 @@ if st.session_state.connected:
         # waits for a msg from mavlink with all the info^^^
         if mpInfo:
             speed_x, speed_y = mpInfo.vx, mpInfo.vy
-            latitude, longtitude = mpInfo.lat, mpInfo.lon
+            latitude, longitude = mpInfo.lat, mpInfo.lon
+            battery = st.session_state.connection.recv_match(type='BATTERY_STATUS', blocking=True, timeout=2)
+            if battery:
+                voltage = (battery.voltages[0])/1000
+                batteryDisplay = f"{voltage: .2f} V"
             st.markdown(f"""
             <div style=""
                 display: flex;
@@ -96,14 +102,24 @@ if st.session_state.connected:
                     text-align: center;
                 ">
                 <b style="font-size: 36px"> Badger Status </b></br>
-                <b>Battery: </b> Figure out how to display this</br>
+                <b>Battery: </b> batteryDisplay </br>
                 <b>Speed (X, Y): </b> {speed_x}, {speed_y}</br>
-                <b>GPS Coordinates: </b> ({latitude}, {longtitude})</br>
+                <b>GPS Coordinates: </b> ({latitude}, {longitude})</br>
                 </div>
             </div>
             """, unsafe_allow_html=True)
+            st.divider()
+
+            # OSM map display
+            map = folium.Map(location=[40, 29],
+                tiles="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+                attr="Esri", zoom_start=18)
+            folium.Marker([40, 29], tooltip="BADGER's Location").add_to(map)
+            st_folium(map, width=700)
+
     except Exception as e:
         st.error("Unable to Retrieve Data: " + str(e))
+
 
 if st.session_state.connected:
     st.success("✅ Connected to Mission Planner")
@@ -138,3 +154,10 @@ st.markdown(f"""
 </div>
 </div>
 """, unsafe_allow_html=True)
+
+st.divider()
+
+map = folium.Map(location=[40,29], tiles = "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery"
+                                           "/MapServer/tile/{z}/{y}/{x}", attr="Esri", zoom_start=6)
+folium.Marker([40,29], tooltip="BADGER's Location").add_to(map)
+st_folium(map, width=700)
