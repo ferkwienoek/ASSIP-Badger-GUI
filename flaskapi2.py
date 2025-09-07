@@ -96,8 +96,8 @@ def get_waypoints():
     matched_kv = [{"k": tag.split("=")[0], "v": tag.split("=")[1], "score": score} for tag, score in top_matches]
     matched_df = pd.DataFrame(matched_kv)
 
-    client = OpenAI(api_key="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")
-    fine_tuned_model = "ft:gpt-4o-mini-2024-07-18:personal:badger-api:BwWBxLuT"
+    client = OpenAI(api_key="")
+    fine_tuned_model = ""
 
     guideline = ("Only respond with the name of the percieved destination on the GMU campus that the user wants to go "
                  "to.")
