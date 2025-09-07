@@ -1,0 +1,1641 @@
+{
+  "crossing": [
+    "marked",
+    "traffic_signals",
+    "uncontrolled",
+    "unmarked",
+    "zebra"
+  ],
+  "crossing:island": [
+    "no"
+  ],
+  "highway": [
+    "bus_stop",
+    "crossing",
+    "cycleway",
+    "footway",
+    "path",
+    "pedestrian",
+    "primary",
+    "residential",
+    "secondary",
+    "service",
+    "steps",
+    "stop",
+    "street_lamp",
+    "tertiary",
+    "tertiary_link",
+    "traffic_signals",
+    "turning_circle",
+    "unclassified"
+  ],
+  "tactile_paving": [
+    "no",
+    "yes"
+  ],
+  "traffic_signals": [
+    "signal",
+    "stop"
+  ],
+  "crossing:markings": [
+    "ladder",
+    "ladder:skewed",
+    "no",
+    "surface",
+    "yes",
+    "zebra"
+  ],
+  "ele": [
+    "113",
+    "121",
+    "123",
+    "125",
+    "126",
+    "127",
+    "128",
+    "129",
+    "131",
+    "133",
+    "134",
+    "135",
+    "136"
+  ],
+  "gnis:feature_id": [
+    "1467453",
+    "2041157",
+    "2082533",
+    "2082535",
+    "2082536",
+    "2082537",
+    "2082542",
+    "2082543",
+    "2082545",
+    "2082547",
+    "2082549",
+    "2082552",
+    "2082557",
+    "2082561",
+    "2082562",
+    "2082572",
+    "2082573",
+    "2082589",
+    "2082590",
+    "2082592",
+    "2084311"
+  ],
+  "leisure": [
+    "garden",
+    "hackerspace",
+    "outdoor_seating",
+    "park",
+    "pitch",
+    "playground",
+    "sports_centre",
+    "stadium"
+  ],
+  "name": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "Access for Child Development Center",
+    "Adams Hall",
+    "Akeno Sushi",
+    "Amherst Hall",
+    "Apple Federal Credit Union",
+    "Aquatic and Fitness Center",
+    "Aquia Building",
+    "Aquia Creek Lane",
+    "Art and Design Building",
+    "Balcony",
+    "Biology Class Lab",
+    "Biology Department",
+    "Biology Prep",
+    "Blaze Pizza",
+    "Blueridge Hall",
+    "Brunswick Hall",
+    "Buffalo Creek Court",
+    "Bus CUE Gold 1",
+    "Bus CUE Gold 2",
+    "Bus CUE Green 1",
+    "Bus CUE Green 2",
+    "COS Shared Lab",
+    "Campus Drive",
+    "Carow Hall",
+    "Carroll Hall",
+    "Center for Geointelligence",
+    "Central Heating/Cooling Plant",
+    "Central Warehouse",
+    "Chesapeake River Way",
+    "Chick-fil-A",
+    "Chipotle",
+    "Clock Tower",
+    "Collaboration Area",
+    "College Hall",
+    "College of Science (Dean's Office & Administration)",
+    "College of Science (Forensic Science Program)",
+    "College of Science (Mathematical Sciences)",
+    "College of Science - Office of Academic Affairs",
+    "Commonwealth Hall",
+    "Concert Hall",
+    "Confucius",
+    "Copy Room",
+    "Cotswolds Hill Lane",
+    "Cross Cottage",
+    "David King Hall",
+    "Department of Geography & Geoinformation Science",
+    "Department of Geography and Geoinformation Science",
+    "Dickenson Hall",
+    "Dominion Hall",
+    "Dunkin'",
+    "ESP Class Lab",
+    "Eagle Bank Arena",
+    "East Building",
+    "Eastern Shore",
+    "Einstein Bros. Bagels",
+    "Eisenhower Hall",
+    "Emerald Way",
+    "Engineering Building",
+    "Enterprise Hall",
+    "Essex Hall",
+    "Evesham Lane",
+    "Exploratory Hall",
+    "Express Market",
+    "Facilities Administration",
+    "Facilities Archives and Shops",
+    "Facilities Maintenance",
+    "Fairfax",
+    "Fairfax Connector Route 306 GMU-Pentagon",
+    "Fairfax County",
+    "Fenwick Library",
+    "Fine Arts Building",
+    "Finley Building",
+    "Flip Kitchen",
+    "Franklin Hall",
+    "GGS Classroom",
+    "GGS Lab",
+    "GGS Student Lab",
+    "GMU Campus",
+    "GMU Wall",
+    "GMU/Horizon Hall & Harris Theater",
+    "GMU/Patriot Cir & York Dr",
+    "GMU/Rappahannock River Ln",
+    "Geography & Geoinformation Science",
+    "Geology Program, Dept. of Atmospheric, Oceanic, and Earth Sciences",
+    "George Mason",
+    "George Mason Boulevard",
+    "George Mason University",
+    "Grayson Hall",
+    "Greeen Acres Baseball Field",
+    "Green Acres Basketball Court",
+    "Green Acres Bocce Court",
+    "Green Acres Center",
+    "Green Acres Community Garden",
+    "Green Acres Pickleball Courts",
+    "Green Acres Playground",
+    "Green Acres Soccer Field #1",
+    "Green Acres Soccer Field #2",
+    "Green House",
+    "Hampton Roads",
+    "Hanover Hall",
+    "Harris Theatre",
+    "Harrison Hall",
+    "Horizon Hall",
+    "Ike's",
+    "Innovation Hall",
+    "Jackson Hall",
+    "James Buchanan Hall",
+    "Jefferson Hall",
+    "Johnson Center",
+    "Johnson Center Library",
+    "Kennedy Hall",
+    "Krasnow Institute",
+    "Krug Hall",
+    "Lecture Hall",
+    "Liberty Square",
+    "Lincoln Hall",
+    "Lot A",
+    "Lot D",
+    "Lot I",
+    "Lot J",
+    "Lot K",
+    "Lot T",
+    "Madison Hall",
+    "Manhattan Pizza",
+    "Mason Innovation Exchange",
+    "Mason Pond",
+    "Mason Pond Drive",
+    "Mason Pond Parking Deck",
+    "Masonvale",
+    "Masonvale Leasing Office",
+    "Mathematical Sciences",
+    "Mattaponi River Lane",
+    "Merten Hall",
+    "Merten Hall Lot",
+    "Mineralogy & Petrology",
+    "Monroe Hall",
+    "Northeast Module 1",
+    "Northeast Module 2",
+    "Northern Neck",
+    "Nottoway River Lane",
+    "NuVegan",
+    "Occoquan Lane",
+    "One Stop Shop",
+    "Ox Road",
+    "Ox Road Sidepath",
+    "Panda Express",
+    "Panera Bread",
+    "Parking Lot R",
+    "Parking Services",
+    "Parking for Police and Safety Headquarters",
+    "Patriot Center East",
+    "Patriot Circle",
+    "Performing Arts Building",
+    "Peterson Family Health Sciences Building",
+    "Physical Geology",
+    "Piedmont Hall",
+    "Planetary Hall",
+    "Po River Lane",
+    "Police & Safety Headquarters",
+    "Presidents Park Drive",
+    "Rappahannock Lane",
+    "Rappahannock Parking Deck",
+    "Recreation and Athletic Complex",
+    "Red Hot & Blue",
+    "Research Hall",
+    "Rivanna Module",
+    "Rivanna River Lane",
+    "Rivanna River Way",
+    "Roanoke Road",
+    "Roberts House",
+    "Roberts House Stable",
+    "Roberts Lot",
+    "Roberts Road",
+    "Roberts Road Sidepath",
+    "Rogers Hall",
+    "Roosevelt Hall",
+    "SPACS Classlab",
+    "STEM Accelerator Tutorial/Seminar Room",
+    "STEM Seminar",
+    "Sandbridge",
+    "Sandy Creek Way",
+    "Senatorial Lane",
+    "Shared GTA/GTA",
+    "Shenandoah Lane",
+    "Shenandoah Parking Deck",
+    "Sideburn Road",
+    "Skyline Fitness",
+    "Southside Dining",
+    "Staffordshire Lane",
+    "Starbucks",
+    "Steak 'n Shake",
+    "Student Apartment Construction Zone",
+    "Student Union 1",
+    "Subway",
+    "Taylor Hall",
+    "The Difference Baker",
+    "The George Mason Statue",
+    "The HUB",
+    "The Halal Guys",
+    "The MIX",
+    "The Spot",
+    "Thompson Hall",
+    "Tidewater Hall",
+    "Truman Hall",
+    "University Drive",
+    "Vending",
+    "Virginia",
+    "WMATA 17G Kings Park Express Line",
+    "WMATA 29K Alexandria-Fairfax Line",
+    "WMATA F23 Little River Turnpike-George Mason Eastbound Line",
+    "WMATA F23 Little River Turnpike-George Mason Line",
+    "WMATA F23 Little River Turnpike-George Mason Westbound Line",
+    "WMATA F50 Washington Boulevard Eastbound Line",
+    "WMATA F50 Washington Boulevard Line",
+    "WMATA F50 Washington Boulevard Westbound Line",
+    "Washington Hall",
+    "Washington Lot",
+    "West Building",
+    "Whitetop",
+    "Wilkins Plaza",
+    "Wilson Hall",
+    "Wood Glen Road",
+    "York River Road",
+    "argo tea",
+    "crave"
+  ],
+  "wikidata": [
+    "Q1370",
+    "Q1411222",
+    "Q2507846",
+    "Q341915",
+    "Q49478627",
+    "Q49493426",
+    "Q501785",
+    "Q5542193",
+    "Q6436307",
+    "Q7148003"
+  ],
+  "addr:city": [
+    "Fairfax"
+  ],
+  "addr:housenumber": [
+    "10209",
+    "10211",
+    "10213",
+    "10215",
+    "10217",
+    "10219",
+    "10235",
+    "10241",
+    "10245",
+    "10247",
+    "10249",
+    "10251",
+    "10253",
+    "10255",
+    "10257",
+    "10259",
+    "10261",
+    "10263",
+    "10265",
+    "10267",
+    "10269",
+    "10271",
+    "10273",
+    "10275",
+    "10277",
+    "10279",
+    "10281",
+    "10283",
+    "10285",
+    "10287",
+    "10289",
+    "10293",
+    "10295",
+    "10297",
+    "10299",
+    "10400",
+    "10401",
+    "10408",
+    "10410",
+    "10416",
+    "10418",
+    "10422",
+    "10430",
+    "10440",
+    "10443",
+    "10445",
+    "4304",
+    "4329",
+    "4335",
+    "4343;4343B",
+    "4343A",
+    "4349",
+    "4349;4349B",
+    "4349A",
+    "4350",
+    "4351",
+    "4373",
+    "4379",
+    "4393",
+    "4395",
+    "440",
+    "4400",
+    "4401",
+    "4403",
+    "4409",
+    "4420",
+    "4441",
+    "4451",
+    "4453",
+    "4457",
+    "4461",
+    "4467",
+    "4469",
+    "4471",
+    "4475",
+    "4477",
+    "4500",
+    "4511",
+    "4515",
+    "4520",
+    "4580",
+    "4590",
+    "4600",
+    "4639",
+    "4640",
+    "4642",
+    "4643",
+    "4645",
+    "4647",
+    "4699"
+  ],
+  "addr:postcode": [
+    "22030",
+    "22030-4481"
+  ],
+  "addr:state": [
+    "VA",
+    "va"
+  ],
+  "addr:street": [
+    "Aquia Creek Lane",
+    "Banister Creek Court",
+    "Beaumont Court",
+    "Buffalo Creek Court",
+    "Chesapeake Lane",
+    "Chesapeake River Way",
+    "Emerald Way",
+    "Evesham Lane",
+    "George Mason Boulevard",
+    "Mason Pond Drive",
+    "Mattaponi River Lane",
+    "Patriot Circle",
+    "Presidents Park Drive",
+    "Rivanna River Way",
+    "Roberts Road",
+    "Rockfish Creek Lane",
+    "Sandy Creek Way",
+    "Sideburn Road",
+    "Staffordshire Lane",
+    "University",
+    "University Dr",
+    "University Drive",
+    "Wood Glen Road",
+    "York River Road"
+  ],
+  "amenity": [
+    "bank",
+    "bicycle_parking",
+    "bicycle_rental",
+    "bicycle_repair_station",
+    "cafe",
+    "fast_food",
+    "library",
+    "mailroom",
+    "parking",
+    "parking_entrance",
+    "police",
+    "research_institute",
+    "restaurant",
+    "school",
+    "social_facility",
+    "theatre",
+    "toilets",
+    "university"
+  ],
+  "operator": [
+    "City of Fairfax",
+    "City of Fairfax;Fairfax County Department of Transportation;WMATA",
+    "Fairfax County Department of Transportation",
+    "George Mason Commons - Johnson Center - Lower Level",
+    "George Mason University",
+    "Lyft",
+    "Virginia Department of Transportation",
+    "WMATA;Fairfax County Department of Transportation",
+    "Washington Metropolitan Area Transit Authority"
+  ],
+  "operator:type": [
+    "private",
+    "public",
+    "university"
+  ],
+  "operator:wikidata": [
+    "Q1411222",
+    "Q17077936",
+    "Q7972051"
+  ],
+  "source": [
+    "Bing",
+    "Fairfax County open GIS",
+    "George Mason University",
+    "TIGER/Line\u00ae 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+    "USGS Geonames",
+    "esri/Virginia_address",
+    "esri/Virginia_building",
+    "esri/Virginia_building;esri/Virginia_address",
+    "https://www2.gmu.edu/sites/core/files/rotator-image/141023133b.jpg",
+    "local knowledge;streetlevel imagery;https://vault217.gmu.edu/?p=7727",
+    "osmsync:dero"
+  ],
+  "wheelchair": [
+    "limited",
+    "yes"
+  ],
+  "access": [
+    "customers",
+    "delivery",
+    "official",
+    "private",
+    "yes"
+  ],
+  "entrance": [
+    "main",
+    "secondary",
+    "yes"
+  ],
+  "branch": [
+    "George Mason Univ. Johnson Cen",
+    "George Mason Univ. Northern Northeast",
+    "George Mason University"
+  ],
+  "brand": [
+    "Blaze Pizza",
+    "Capital Bikeshare",
+    "Chick-fil-A",
+    "Chipotle",
+    "Dero",
+    "Dunkin'",
+    "Einstein Bros. Bagels",
+    "Manhattan Pizza",
+    "Panda Express",
+    "Panera Bread",
+    "Starbucks",
+    "Steak 'n Shake",
+    "Subway",
+    "The Halal Guys"
+  ],
+  "brand:wikidata": [
+    "Q1034635",
+    "Q10846129",
+    "Q1358690",
+    "Q23016666",
+    "Q244457",
+    "Q37158",
+    "Q465751",
+    "Q491516",
+    "Q5349788",
+    "Q60749203",
+    "Q7130852",
+    "Q7605233",
+    "Q847743"
+  ],
+  "cuisine": [
+    "american;soul_food",
+    "bagel",
+    "burger",
+    "burger;barbecue",
+    "chicken",
+    "chicken;falafel;gyros",
+    "chinese",
+    "coffee_shop",
+    "donut;coffee_shop",
+    "international",
+    "mexican",
+    "pizza",
+    "sandwich",
+    "sandwich;bakery"
+  ],
+  "number": [
+    "70035-79577"
+  ],
+  "official_name": [
+    "Chipotle Mexican Grill",
+    "Gold 1",
+    "Gold 2",
+    "Green 1",
+    "Green 2",
+    "Starbucks Coffee"
+  ],
+  "opening_hours": [
+    "24/7",
+    "Mo-Fr 05:30-22:00; Sa-Su 06:00-20:30",
+    "Mo-Fr 07:00-18:00; Sa-Su 08:00-13:00",
+    "Mo-Fr 07:00-21:00; Sa-Su 08:00-20:00",
+    "Mo-Fr 11:00-18:00",
+    "Mo-Th 07:00-21:00; Fr 07:00-14:00; Sa off; Su 16:00-21:00",
+    "Mo-Th 08:00-00:00; Fr 08:00-19:00; Sa 10:00-18:00; Su 12:00-00:00",
+    "Mo-Th 11:00-15:00; Fr 00:30-01:00"
+  ],
+  "phone": [
+    "+1 571-459-2152",
+    "+1 703-251-0069",
+    "+1 703-993-2240",
+    "+1 703-993-3305",
+    "+1 703-993-5065",
+    "+1 703-993-6042",
+    "+1 703-993-6095",
+    "+1 703-993-6196",
+    "+1 703-993-6688",
+    "+1 703-993-9259",
+    "301-651-9260"
+  ],
+  "ref": [
+    "1004",
+    "1005",
+    "1007358",
+    "10908",
+    "1102",
+    "1200",
+    "123",
+    "124",
+    "125",
+    "126;41411",
+    "1302",
+    "1303",
+    "1308",
+    "1309",
+    "1310",
+    "1400",
+    "1502",
+    "1503",
+    "1504",
+    "1505",
+    "1506",
+    "1509",
+    "1512",
+    "1602",
+    "17G",
+    "2102",
+    "2103",
+    "2111",
+    "2200",
+    "2301",
+    "2304",
+    "2305",
+    "2310",
+    "2312",
+    "2400",
+    "2502",
+    "2503",
+    "2504",
+    "2505",
+    "2506",
+    "2509",
+    "2512",
+    "2602",
+    "29",
+    "29K",
+    "30",
+    "306",
+    "308047",
+    "3101",
+    "3103",
+    "3104",
+    "3200",
+    "3301",
+    "3302",
+    "3400",
+    "3450",
+    "3502",
+    "3503",
+    "3505",
+    "3506",
+    "3507",
+    "3510",
+    "3513",
+    "3602",
+    "383",
+    "4102",
+    "4106",
+    "4107",
+    "4114",
+    "4201",
+    "4301",
+    "4302",
+    "4311",
+    "4400",
+    "4450",
+    "5000823,3696",
+    "653",
+    "80428",
+    "F23",
+    "F50",
+    "Gold 1",
+    "Gold 2",
+    "Green 1",
+    "Green 2",
+    "L003",
+    "L004",
+    "L102",
+    "L106",
+    "L107",
+    "L109",
+    "L110",
+    "L111",
+    "L302",
+    "L304",
+    "L305",
+    "L501",
+    "L502",
+    "L503",
+    "L504",
+    "L505",
+    "L506",
+    "L509",
+    "L510",
+    "L516",
+    "L602",
+    "SR 653",
+    "VA",
+    "VA 123",
+    "VA 383"
+  ],
+  "takeaway": [
+    "no",
+    "only",
+    "yes"
+  ],
+  "website": [
+    "https://cgeoint.gmu.edu/",
+    "https://gmu.sodexomyway.com/index.html",
+    "https://library.gmu.edu",
+    "https://locations.chipotle.com/va/fairfax/4477-aquia-creek-lane",
+    "https://locations.dunkindonuts.com/en/va/fairfax/4349-chesapeake-ln/356615",
+    "https://locations.panerabread.com/va/fairfax/4400-university-drive.html",
+    "https://nuvegancafe.com/",
+    "https://restaurants.subway.com/united-states/va/fairfax/4400-university-drive",
+    "https://www.capitalbikeshare.com/",
+    "https://www.chick-fil-a.com/locations/va/george-mason-university-sub-1",
+    "https://www.fairfaxcounty.gov/",
+    "https://www.fairfaxva.gov/",
+    "https://www.gmu.edu/",
+    "https://www.mix.gmu.edu/",
+    "https://www.pandaexpress.com/location/george-mason-university-university-hall-px/menu",
+    "https://www.starbucks.com/store-locator/store/1007358/george-mason-univ-johnson-cen-4400-university-fairfax-va-22030-us",
+    "https://www.starbucks.com/store-locator/store/10908/george-mason-univ-northern-ne-4401-university-drive-fairfax-va-220304481-us"
+  ],
+  "noexit": [
+    "yes"
+  ],
+  "crossing:signals": [
+    "no"
+  ],
+  "bench": [
+    "yes"
+  ],
+  "bin": [
+    "yes"
+  ],
+  "bus": [
+    "yes"
+  ],
+  "departures_board": [
+    "timetable"
+  ],
+  "network": [
+    "CUE",
+    "CUE;Fairfax Connector;WMATA Metrobus",
+    "Capital Bikeshare",
+    "Fairfax Connector",
+    "US:VA",
+    "US:VA:Secondary",
+    "WMATA Metrobus",
+    "WMATA Metrobus;Fairfax Connector"
+  ],
+  "public_transport": [
+    "platform",
+    "stop_area"
+  ],
+  "shelter": [
+    "no",
+    "yes"
+  ],
+  "barrier": [
+    "kerb",
+    "lift_gate",
+    "wall"
+  ],
+  "bicycle": [
+    "no",
+    "unknown",
+    "yes"
+  ],
+  "foot": [
+    "designated",
+    "no",
+    "yes"
+  ],
+  "motorcar": [
+    "private",
+    "yes"
+  ],
+  "motorcycle": [
+    "yes"
+  ],
+  "direction": [
+    "backward"
+  ],
+  "kerb": [
+    "flush",
+    "unknown"
+  ],
+  "surface": [
+    "asphalt",
+    "asphalt;concrete",
+    "concrete",
+    "dirt",
+    "grass",
+    "gravel",
+    "ground",
+    "paved",
+    "paving_stones",
+    "unpaved",
+    "wood"
+  ],
+  "traffic_signals:sound": [
+    "yes"
+  ],
+  "button_operated": [
+    "yes"
+  ],
+  "crossing_ref": [
+    "zebra"
+  ],
+  "bicycle_parking": [
+    "shed"
+  ],
+  "capacity": [
+    "10",
+    "1191",
+    "12",
+    "1205",
+    "1240",
+    "1485",
+    "15",
+    "18",
+    "288",
+    "3",
+    "5",
+    "6",
+    "652",
+    "69",
+    "844"
+  ],
+  "covered": [
+    "yes"
+  ],
+  "access:delivery": [
+    "no"
+  ],
+  "traffic_calming": [
+    "hump",
+    "table"
+  ],
+  "artist_name": [
+    "Wendy M. Ross"
+  ],
+  "artwork_type": [
+    "statue"
+  ],
+  "material": [
+    "bronze"
+  ],
+  "tourism": [
+    "artwork"
+  ],
+  "wikimedia_commons": [
+    "File:Mason Statue.JPG"
+  ],
+  "short_name": [
+    "GMU",
+    "Panera",
+    "Va."
+  ],
+  "atm": [
+    "yes"
+  ],
+  "internet_access": [
+    "wlan",
+    "yes"
+  ],
+  "smoking": [
+    "no"
+  ],
+  "delivery": [
+    "no"
+  ],
+  "not:brand:wikidata": [
+    "Q112028897"
+  ],
+  "natural": [
+    "tree",
+    "water",
+    "wood"
+  ],
+  "leaf_cycle": [
+    "deciduous"
+  ],
+  "leaf_type": [
+    "broadleaved"
+  ],
+  "level": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "4;2"
+  ],
+  "fixme": [
+    "May be damaged or removed"
+  ],
+  "note": [
+    "Currently closed due to stream restoration project",
+    "George Mason University",
+    "Innovation Hall",
+    "This is an independent city. Independent cities in the US are not part of any county. The admin_level should be \"6\" (not 8) and the border_type should be \"city\" (not county)."
+  ],
+  "service:bicycle:chain_tool": [
+    "no"
+  ],
+  "historic": [
+    "memorial"
+  ],
+  "memorial": [
+    "statue"
+  ],
+  "subject:wikidata": [
+    "Q4604"
+  ],
+  "place": [
+    "village"
+  ],
+  "population": [
+    "11162",
+    "1150309"
+  ],
+  "population:date": [
+    "2020"
+  ],
+  "source:population": [
+    "US Census",
+    "https://www.census.gov/programs-surveys/popest.html"
+  ],
+  "wikipedia": [
+    "en:Fairfax County, Virginia",
+    "en:Fairfax, Virginia",
+    "en:George Mason University",
+    "en:George Mason, Virginia",
+    "en:Krasnow Institute for Advanced Study",
+    "en:Virginia"
+  ],
+  "service:bicycle:pump": [
+    "yes"
+  ],
+  "door": [
+    "automatic"
+  ],
+  "man_made": [
+    "manhole",
+    "water_tower"
+  ],
+  "manhole": [
+    "drain"
+  ],
+  "craft": [
+    "beekeeper"
+  ],
+  "traffic_signals:direction": [
+    "forward"
+  ],
+  "lit": [
+    "no",
+    "yes"
+  ],
+  "area": [
+    "yes"
+  ],
+  "diet:halal": [
+    "yes"
+  ],
+  "alt_name": [
+    "Academic 6",
+    "Dunkin' Donuts",
+    "Einstein Brothers Bagels"
+  ],
+  "drive_through": [
+    "no"
+  ],
+  "building": [
+    "detached",
+    "dormitory",
+    "garage",
+    "greenhouse",
+    "residential",
+    "school",
+    "university",
+    "yes"
+  ],
+  "shop": [
+    "convenience"
+  ],
+  "diet:vegan": [
+    "yes"
+  ],
+  "bicycle_rental": [
+    "docking_station"
+  ],
+  "fee": [
+    "no",
+    "yes"
+  ],
+  "network:wikidata": [
+    "Q1034635",
+    "Q5430155",
+    "Q6824810"
+  ],
+  "addr:unit": [
+    "1",
+    "Lane",
+    "Rm 290"
+  ],
+  "indoor_seating": [
+    "no"
+  ],
+  "building:floor": [
+    "2"
+  ],
+  "name:en": [
+    "Department of Geography and Geoinformation Science",
+    "Virginia",
+    "Whitetop"
+  ],
+  "addr:county": [
+    "Fairfax County"
+  ],
+  "maxspeed": [
+    "25 mph",
+    "30 mph",
+    "45 mph"
+  ],
+  "oneway": [
+    "no",
+    "yes"
+  ],
+  "source:maxspeed": [
+    "sign"
+  ],
+  "tiger:cfcc": [
+    "A41"
+  ],
+  "tiger:county": [
+    "Fairfax, VA",
+    "Fairfax-City, VA"
+  ],
+  "tiger:name_base": [
+    "Aquia River",
+    "George Mason",
+    "Occoquan",
+    "Patriot",
+    "Rappahannock",
+    "Roanoke",
+    "Roberts",
+    "Senatorial",
+    "Shenandoah",
+    "Sideburn",
+    "University"
+  ],
+  "tiger:name_type": [
+    "Blvd",
+    "Cir",
+    "Dr",
+    "Ln",
+    "Rd"
+  ],
+  "tiger:reviewed": [
+    "no",
+    "yes"
+  ],
+  "tiger:zip_left": [
+    "22030"
+  ],
+  "service": [
+    "driveway",
+    "parking_aisle"
+  ],
+  "cycleway:left": [
+    "lane"
+  ],
+  "lanes": [
+    "1",
+    "2",
+    "3"
+  ],
+  "tiger:zip_right": [
+    "22030"
+  ],
+  "cycleway": [
+    "lane",
+    "shared",
+    "shared_lane"
+  ],
+  "name_1": [
+    "Pohick Lane"
+  ],
+  "tiger:name_base_1": [
+    "Pohick"
+  ],
+  "tiger:name_type_1": [
+    "Ln"
+  ],
+  "building:levels": [
+    "4",
+    "5",
+    "6"
+  ],
+  "motor_vehicle": [
+    "no",
+    "yes"
+  ],
+  "footway": [
+    "crossing",
+    "sidewalk"
+  ],
+  "layer": [
+    "-1",
+    "1"
+  ],
+  "capacity:disabled": [
+    "3",
+    "6",
+    "no",
+    "yes"
+  ],
+  "park_ride": [
+    "no"
+  ],
+  "parking": [
+    "multi-storey",
+    "street_side",
+    "surface"
+  ],
+  "sport": [
+    "baseball",
+    "basketball",
+    "boules",
+    "multi",
+    "soccer"
+  ],
+  "water": [
+    "pond"
+  ],
+  "building:max_level": [
+    "4"
+  ],
+  "building:min_level": [
+    "0"
+  ],
+  "junction": [
+    "roundabout"
+  ],
+  "designation": [
+    "Crosswalk",
+    "crosswalk"
+  ],
+  "incline": [
+    "-0.3",
+    "1.2",
+    "10%",
+    "down"
+  ],
+  "residential": [
+    "university"
+  ],
+  "capacity:parent": [
+    "no"
+  ],
+  "capacity:women": [
+    "no"
+  ],
+  "horse": [
+    "yes"
+  ],
+  "lane_markings": [
+    "no"
+  ],
+  "waterway": [
+    "drain",
+    "stream"
+  ],
+  "intermittent": [
+    "yes"
+  ],
+  "tunnel": [
+    "building_passage",
+    "culvert",
+    "yes"
+  ],
+  "check_date:surface": [
+    "2021-10-17",
+    "2024-05-13",
+    "2024-05-15",
+    "2024-05-17"
+  ],
+  "landuse": [
+    "apiary",
+    "construction",
+    "grass",
+    "greenspace",
+    "meadow",
+    "recreation_ground",
+    "residential"
+  ],
+  "crosswalk": [
+    "Yes"
+  ],
+  "elevator": [
+    "3"
+  ],
+  "floors": [
+    "5"
+  ],
+  "bridge": [
+    "no",
+    "yes"
+  ],
+  "cycleway:right": [
+    "lane"
+  ],
+  "height": [
+    "20m"
+  ],
+  "toilets:wheelchair": [
+    "yes"
+  ],
+  "buildingpart": [
+    "room",
+    "verticalpassage"
+  ],
+  "indoor": [
+    "room",
+    "yes"
+  ],
+  "male": [
+    "yes"
+  ],
+  "buildingpart:verticalpassage": [
+    "elevator",
+    "stairway"
+  ],
+  "female": [
+    "yes"
+  ],
+  "room": [
+    "balcony",
+    "classroom",
+    "laboratory",
+    "office"
+  ],
+  "width": [
+    "1",
+    "3"
+  ],
+  "lanes:backward": [
+    "1",
+    "2"
+  ],
+  "lanes:forward": [
+    "1",
+    "2"
+  ],
+  "turn:lanes": [
+    "left|through|right"
+  ],
+  "playground:theme": [
+    "playground"
+  ],
+  "boules": [
+    "bocce"
+  ],
+  "parking:orientation": [
+    "parallel"
+  ],
+  "garden:type": [
+    "community"
+  ],
+  "hoops": [
+    "2"
+  ],
+  "fixme:atp": [
+    "no ATP match, check if still exists"
+  ],
+  "handrail": [
+    "yes"
+  ],
+  "ramp": [
+    "no"
+  ],
+  "step_count": [
+    "15",
+    "32",
+    "8"
+  ],
+  "turn:lanes:forward": [
+    "left|",
+    "through;right"
+  ],
+  "turn:lanes:backward": [
+    "left;through",
+    "left|",
+    "none|right"
+  ],
+  "admin_level": [
+    "4",
+    "6"
+  ],
+  "border_type": [
+    "census_designated_place",
+    "city",
+    "county",
+    "state"
+  ],
+  "boundary": [
+    "administrative",
+    "census"
+  ],
+  "nist:fips_code": [
+    "51059",
+    "51600"
+  ],
+  "type": [
+    "boundary",
+    "building",
+    "level",
+    "multipolygon",
+    "public_transport",
+    "restriction",
+    "route",
+    "route_master"
+  ],
+  "ISO3166-2": [
+    "US-VA"
+  ],
+  "name:af": [
+    "Virgini\u00eb"
+  ],
+  "name:an": [
+    "Birchinia"
+  ],
+  "name:ar": [
+    "\u0641\u064a\u0631\u062c\u064a\u0646\u064a\u0627"
+  ],
+  "name:az": [
+    "Virciniya"
+  ],
+  "name:be": [
+    "\u0412\u0456\u0440\u0434\u0436\u044b\u043d\u0456\u044f"
+  ],
+  "name:bg": [
+    "\u0412\u0438\u0440\u0434\u0436\u0438\u043d\u0438\u044f"
+  ],
+  "name:bn": [
+    "\u09ad\u09be\u09b0\u09cd\u099c\u09bf\u09a8\u09bf\u09af\u09bc\u09be"
+  ],
+  "name:ca": [
+    "Virg\u00ednia"
+  ],
+  "name:cs": [
+    "Virginie"
+  ],
+  "name:cv": [
+    "\u0412\u0438\u0440\u0434\u0436\u0438\u043d\u0438"
+  ],
+  "name:el": [
+    "\u0392\u03b9\u03c1\u03c4\u03b6\u03af\u03bd\u03b9\u03b1"
+  ],
+  "name:eo": [
+    "Virginio"
+  ],
+  "name:fa": [
+    "\u0648\u06cc\u0631\u062c\u06cc\u0646\u06cc\u0627"
+  ],
+  "name:fr": [
+    "Virginie"
+  ],
+  "name:fy": [
+    "Firginia"
+  ],
+  "name:ga": [
+    "An Bhirginia"
+  ],
+  "name:gl": [
+    "Virxinia"
+  ],
+  "name:gv": [
+    "Yn Virjeeney"
+  ],
+  "name:hak": [
+    "V\u00ec-kit-n\u00ec-\u00e2"
+  ],
+  "name:haw": [
+    "Wilikinia"
+  ],
+  "name:he": [
+    "\u05d5\u05d9\u05e8\u05d2'\u05d9\u05e0\u05d9\u05d4"
+  ],
+  "name:ht": [
+    "Vijini"
+  ],
+  "name:hy": [
+    "\u054e\u056b\u0580\u057b\u056b\u0576\u056b\u0561"
+  ],
+  "name:is": [
+    "Virgin\u00eda"
+  ],
+  "name:ja": [
+    "\u30d0\u30fc\u30b8\u30cb\u30a2\u5dde"
+  ],
+  "name:ka": [
+    "\u10d5\u10d8\u10e0\u10ef\u10d8\u10dc\u10d8\u10d0"
+  ],
+  "name:kn": [
+    "\u0cb5\u0cb0\u0ccd\u0c9c\u0cc0\u0ca8\u0cbf\u0caf"
+  ],
+  "name:ko": [
+    "\ubc84\uc9c0\ub2c8\uc544"
+  ],
+  "name:kw": [
+    "Virjynni"
+  ],
+  "name:lt": [
+    "Vird\u017einija"
+  ],
+  "name:lv": [
+    "Vird\u017e\u012bnija"
+  ],
+  "name:mg": [
+    "Virjinia"
+  ],
+  "name:mk": [
+    "\u0412\u0438\u0440\u045f\u0438\u043d\u0438\u0458\u0430"
+  ],
+  "name:ml": [
+    "\u0d35\u0d3f\u0d30\u0d4d\u200d\u0d1c\u0d40\u0d28\u0d3f\u0d2f"
+  ],
+  "name:mn": [
+    "\u0412\u0438\u0440\u0436\u0438\u043d\u0438"
+  ],
+  "name:mr": [
+    "\u0935\u094d\u0939\u0930\u094d\u091c\u093f\u0928\u093f\u092f\u093e"
+  ],
+  "name:nan": [
+    "Virginia"
+  ],
+  "name:nv": [
+    "Bij\u00edniyah Hahoodzo"
+  ],
+  "name:oc": [
+    "Virg\u00ednia"
+  ],
+  "name:os": [
+    "\u0412\u0438\u0440\u0434\u0436\u0438\u043d\u0438"
+  ],
+  "name:pdc": [
+    "Wirschini"
+  ],
+  "name:pl": [
+    "Wirginia"
+  ],
+  "name:pt": [
+    "Virg\u00ednia"
+  ],
+  "name:qu": [
+    "Virginia suyu"
+  ],
+  "name:ru": [
+    "\u0412\u0438\u0440\u0433\u0438\u043d\u0438\u044f"
+  ],
+  "name:sk": [
+    "Virg\u00ednia"
+  ],
+  "name:sl": [
+    "Virginija"
+  ],
+  "name:sr": [
+    "\u0412\u0438\u0440\u045f\u0438\u043d\u0438\u0458\u0430"
+  ],
+  "name:szl": [
+    "Wirgi\u0144ijo"
+  ],
+  "name:ta": [
+    "\u0bb5\u0bb0\u0bcd\u0b9c\u0bc0\u0ba9\u0bbf\u0baf\u0bbe"
+  ],
+  "name:te": [
+    "\u0c35\u0c30\u0c4d\u0c1c\u0c40\u0c28\u0c3f\u0c2f\u0c3e"
+  ],
+  "name:th": [
+    "\u0e23\u0e31\u0e10\u0e40\u0e27\u0e2d\u0e23\u0e4c\u0e08\u0e34\u0e40\u0e19\u0e35\u0e22"
+  ],
+  "name:tr": [
+    "Virginia"
+  ],
+  "name:uk": [
+    "\u0412\u0456\u0440\u0434\u0436\u0438\u043d\u0456\u044f"
+  ],
+  "name:ur": [
+    "\u0648\u0631\u062c\u06cc\u0646\u06cc\u0627"
+  ],
+  "name:uz": [
+    "Virjiniya"
+  ],
+  "name:yi": [
+    "\u05d5\u05d5\u05d9\u05e8\u05d6\u05e9\u05d9\u05e0\u05d9\u05e2"
+  ],
+  "name:zh": [
+    "\u5f17\u5409\u5c3c\u4e9a\u5dde / \u7dad\u5409\u5c3c\u4e9e\u5dde / \u7dad\u73cd\u5c3c\u4e9e\u5dde"
+  ],
+  "name:zh-Hans": [
+    "\u5f17\u5409\u5c3c\u4e9a\u5dde"
+  ],
+  "name:zh-Hans-CN": [
+    "\u5f17\u5409\u5c3c\u4e9a\u5dde"
+  ],
+  "name:zh-Hant": [
+    "\u7dad\u5409\u5c3c\u4e9e\u5dde / \u7dad\u73cd\u5c3c\u4e9e\u5dde"
+  ],
+  "name:zh-Hant-CN": [
+    "\u5f17\u5409\u5c3c\u4e9e\u5dde"
+  ],
+  "name:zh-Hant-HK": [
+    "\u7dad\u73cd\u5c3c\u4e9e\u5dde"
+  ],
+  "name:zh-Hant-TW": [
+    "\u7dad\u5409\u5c3c\u4e9e\u5dde"
+  ],
+  "nickname": [
+    "The Old Dominion"
+  ],
+  "ref:USCG": [
+    "VA"
+  ],
+  "ref:USPS": [
+    "VA"
+  ],
+  "ref:fips": [
+    "51"
+  ],
+  "source:short_name": [
+    "Associated Press"
+  ],
+  "nist:state_fips": [
+    "51"
+  ],
+  "is_in:state": [
+    "VA"
+  ],
+  "route": [
+    "bus",
+    "road"
+  ],
+  "symbol": [
+    "http://upload.wikimedia.org/wikipedia/commons/8/8a/Virginia_123.svg"
+  ],
+  "restriction": [
+    "no_left_turn",
+    "no_right_turn",
+    "no_u_turn",
+    "only_right_turn"
+  ],
+  "disused:type": [
+    "route"
+  ],
+  "network:wikipedia": [
+    "en:Fairfax Connector",
+    "en:Metrobus (Washington, D.C.)"
+  ],
+  "operator:short": [
+    "WMATA"
+  ],
+  "operator:wikipedia": [
+    "en:Washington Metropolitan Area Transit Authority"
+  ],
+  "public_transport:version": [
+    "1",
+    "2"
+  ],
+  "description": [
+    "SR 653 (Fairfax)"
+  ],
+  "colour": [
+    "#2ba117",
+    "#C8102E",
+    "#f0da1d"
+  ],
+  "duration": [
+    "01:00"
+  ],
+  "from": [
+    "Ballston",
+    "George Mason",
+    "King Street-Old Town",
+    "Vienna/Fairfax-GMU"
+  ],
+  "interval": [
+    "00:30",
+    "40"
+  ],
+  "roundtrip": [
+    "yes"
+  ],
+  "to": [
+    "Ballston",
+    "George Mason",
+    "King Street-Old Town"
+  ],
+  "route_master": [
+    "bus"
+  ]
+}
