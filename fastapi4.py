@@ -38,7 +38,7 @@ app = FastAPI()
 
 @app.post("/get_obstacles/")
 def get_obstacles():
-    webcam
+    # webcam
     print("trying to open webcam")
     cap = cv2.VideoCapture(0)
     if not cap.isOpened():
